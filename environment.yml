@@ -1,0 +1,18 @@
+name: persistence_length
+channels:
+  - conda-forge
+dependencies:
+  - freud >= 3.0
+  - gmso >=0.11.2
+  - fresnel >=0.13.5
+  - gsd >=3.0
+  - hoomd >=4.0
+  - mbuild >=0.16.4
+  - numpy
+  - pip
+  - python >= 3.10,<3.12
+  - matplotlib
+  - pymbar >= 4.0
+  - rowan
+  - mdanalysis
+  - jupyter
