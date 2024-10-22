@@ -1,4 +1,4 @@
-name: persistence_length
+name: p_l
 channels:
   - conda-forge
 dependencies:
